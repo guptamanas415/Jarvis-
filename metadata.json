@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Futuristic personal AI voice assistant powered by Google Gemini with voice visualizer, homework matrix, apps orchestration, and neural telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

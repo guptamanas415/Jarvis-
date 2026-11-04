@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_service_description">JARVIS accessibility service for user-requested system and cross-app assistance.</string>
+</resources>
